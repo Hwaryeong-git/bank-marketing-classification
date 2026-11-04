@@ -1,0 +1,8 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scikit-learn": "1.8.0",
+  "matplotlib": "3.10.8",
+  "data_sha256": "a78d2754fdc337f204cd36a15f46d611ec33211f4e8ef90ece3798221954daab"
+}

@@ -1,0 +1,17 @@
+{
+  "model": "Hist boosting",
+  "threshold": 0.3,
+  "train_size": 31647,
+  "validation_size": 13564,
+  "baseline": {
+    "Accuracy": 0.894426422884105,
+    "비가입자 F1": 0.942975469894871,
+    "가입자 F1": 0.2896825396825397
+  },
+  "final": {
+    "Accuracy": 0.8883072839870245,
+    "비가입자 F1": 0.9374147973726608,
+    "가입자 F1": 0.4813420061622732
+  },
+  "final_boosting_iterations": 41
+}
